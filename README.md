@@ -27,7 +27,7 @@ Region of FP1 that is shown in the figure above. is where the dry electrode is p
 </p>
 
 <p align="center">
-    <img width="350" height="250" src="UsedEEG.jpg">
+    <img width="350" height="350" src="UsedEEG.jpg">
 </p>
 
 <p align="justify">
@@ -35,10 +35,10 @@ Region of FP1 that is shown in the figure above. is where the dry electrode is p
     be accessed in MATLAB by applying the library Thinkgear.dll to get attention, meditation, and eye blink value
 </p>
 
-## Its Applicatoin
+## Its Application
 
 <p align="center">
-    <img width="350" height="250" src="218406.jpg">
+    <img width="300" height="250" src="218406.jpg">
 </p>
 
 <p align="justify">
@@ -50,7 +50,7 @@ Region of FP1 that is shown in the figure above. is where the dry electrode is p
 </p>
 
 <p align="center">
-    <img height="350" width="250" src="218405.jpg">
+    <img height="450" width="250" src="218405.jpg">
 </p>
 
 <p align="justify">
