@@ -26,7 +26,9 @@ Region of FP1 that is shown in the figure above. is where the dry electrode is p
     In its application, the EEG that is used is a low cost EEG namely NeuroSky Mindwave.
 </p>
 
-![alt image](UsedEEG.jpg "NeuroSky_Mindwave")
+<p align="center">
+    <img width="350" height="250" src="FP1.jpg">
+</p>
 
 <p align="justify">
     The figure above shows the picture of EEG, where theelectrode will be placed on FP1 of Brodmann Atlas. After capturing the signal, it is then processed by eSense algorithm, an algorithm that has been embedded within the NeuroSky Mindwave. It can
@@ -35,17 +37,24 @@ Region of FP1 that is shown in the figure above. is where the dry electrode is p
 
 ## Its Applicatoin
 
-![alt image](218406.jpg "A User wearing the equipment")
+<p align="center">
+    <img width="350" height="250" src="218406.jpg">
+</p>
 
-The user should wear the NeuroSky Mindwave as shown in the figure above. Then, the EEG is calibrated with the Brainwave Visualizer software. After that, the MATLAB code in its m-file is executed (including eye blink detection and Bluetooth communication). There will be two variables that are plotted on the
-graph and sent in real time to the robot. One is attention value that is plotted each second, and another one is eye blink value that is plotted each
-time the user blinks. 
-In real time, whenever the values are plotted, they will also be sent into the microcontroller. Then, it allows the robot to be controlled and be able to
-move forward, turn left, turn right, rotate, and move backward as the user commands.
+<p align="justify">
+    The user should wear the NeuroSky Mindwave as shown in the figure above. Then, the EEG is calibrated with the Brainwave Visualizer software. After that, the MATLAB code in its m-file is executed (including eye blink detection and Bluetooth communication). There will be two variables that are plotted on the
+    graph and sent in real time to the robot. One is attention value that is plotted each second, and another one is eye blink value that is plotted each
+    time the user blinks. 
+    In real time, whenever the values are plotted, they will also be sent into the microcontroller. Then, it allows the robot to be controlled and be able to
+    move forward, turn left, turn right, rotate, and move backward as the user commands.
+</p>
 
-![alt image](218405.jpg "Controlling the robot")
+<p align="center">
+    <img height="350" width="250" src="218405.jpg">
+</p>
 
-The robot in action (picture above) shows the condition of the robot when it is
-moving. The robot movement will be based on the user condition in concentrating and eye blinking. 
-
+<p align="justify">
+    The robot in action (picture above) shows the condition of the robot when it is
+    controled. The robot movement will be based on the user condition in concentrating and eye blinking. 
+</p>
 
