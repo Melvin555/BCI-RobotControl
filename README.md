@@ -27,7 +27,7 @@ Region of FP1 that is shown in the figure above. is where the dry electrode is p
 </p>
 
 <p align="center">
-    <img width="350" height="250" src="FP1.jpg">
+    <img width="350" height="250" src="UsedEEG.jpg">
 </p>
 
 <p align="justify">
