@@ -7,7 +7,9 @@ control the movement of a land mobile robot.
 
 Brainwave are differentiated into several types based on reaction and terms that may affect their fluctuations, they are Delta, Theta, Low Alpha, High Alpha, Low Beta, High Beta, Low Gamma, and High Gamma waves in general. From these differentiations, using the NeuroSky Mindwave EEG in particular, the eSense algorithm which has been embedded into the module will get the control variables of attention, meditation, and eyes blink level out of Alpha and Beta waves. 
 
-![alt image](FP1.jpg "FP1 Location")
+<p align="center">
+    <img width="600" height="250" src="FP1.jpg">
+</p>
 
 Region of FP1 that is shown in the figure above. is where the dry electrode is positioned to take the user brain signal. FP1 region is also the closest part to the user’s left eye location such that the reading of eye blink is clearer in this region compared to that of other regions
 
