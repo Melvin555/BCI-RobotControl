@@ -38,7 +38,7 @@ Region of FP1 that is shown in the figure above. is where the dry electrode is p
 ## Its Application
 
 <p align="center">
-    <img width="300" height="250" src="218406.jpg">
+    <img width="300" height="180" src="218406.jpg">
 </p>
 
 <p align="justify">
