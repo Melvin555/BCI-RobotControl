@@ -50,7 +50,7 @@ Region of FP1 that is shown in the figure above. is where the dry electrode is p
 </p>
 
 <p align="center">
-    <img height="450" width="250" src="218405.jpg">
+    <img height="300" width="200" src="218405.jpg">
 </p>
 
 <p align="justify">
