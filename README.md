@@ -17,7 +17,7 @@
 </p>
 
 <p align="justify">
-Region of FP1 that is shown in the figure above. is where the dry electrode is positioned to take the user brain signal. FP1 region is also the closest part to the user’s left eye location such that the reading of eye blink is clearer in this region compared to that of other regions
+    Region of FP1 that is shown in the figure above. is where the dry electrode is positioned to take the user brain signal. FP1 region is also the closest part to the user’s left eye location such that the reading of eye blink is clearer in this region compared to that of other regions
 </p>
 
 ## Main EEG used
@@ -31,7 +31,7 @@ Region of FP1 that is shown in the figure above. is where the dry electrode is p
 </p>
 
 <p align="justify">
-    The figure above shows the picture of EEG, where theelectrode will be placed on FP1 of Brodmann Atlas. After capturing the signal, it is then processed by eSense algorithm, an algorithm that has been embedded within the NeuroSky Mindwave. It can
+    The figure above shows the picture of EEG, where the electrode will be placed on FP1 of Brodmann Atlas. After capturing the signal, it is then processed by eSense algorithm, an algorithm that has been embedded within the NeuroSky Mindwave. It can
     be accessed in MATLAB by applying the library Thinkgear.dll to get attention, meditation, and eye blink value
 </p>
 
